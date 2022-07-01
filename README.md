@@ -10,7 +10,7 @@
 <p>Previously: Research intern at Intitute of Chemical Technology, Mumbai, India</p>
 
 <h4>Connect with me on <a href="www.linkedin.com/in/prathyush-nair">LinkedIn</a></h4>
-<h4><a href="https://graceful-brigadeiros-4b3245.netlify.app/">Portfolio</a></h4>
+<h4><a href="https://prathyushnair.netlify.app/">Portfolio</a></h4>
 <h4>Read about my collaborative project journey on Medium</h4>
 <ul>
   <li><a href="https://medium.com/@prathyu360/cloning-the-website-of-nordstrom-rack-af68fce46989">Norsdtromrack Clone</a></li>
