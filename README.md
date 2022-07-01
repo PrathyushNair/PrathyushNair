@@ -10,6 +10,12 @@
 <p>Previously: Research intern at Intitute of Chemical Technology, Mumbai, India</p>
 
 <h4>Connect with me on <a href="www.linkedin.com/in/prathyush-nair">LinkedIn</a></h4>
+<h4>Read about my collaborative project journey on Medium</h4>
+<ul>
+  <li><a href="https://medium.com/@prathyu360/cloning-the-website-of-nordstrom-rack-af68fce46989">Norsdtromrack Clone</a></li>
+  <li><a href="https://medium.com/@victor20sara20/project-on-clone-of-modesens-a110c4d5394c">Modesens Clone</a></li>
+  <li><a href="https://medium.com/@info.coldfired/project-toy-marche-clone-9a66fee38079">Toymarche Clone</a></li>
+</ul>
 
 
 
