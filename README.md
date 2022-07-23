@@ -12,6 +12,8 @@
 <h4>Connect with me on <a href="www.linkedin.com/in/prathyush-nair">LinkedIn</a></h4>
 <h4>Checkout my <a href="https://prathyushnair.netlify.app/">Portfolio</a></h4>
 <h4>Read about my collaborative project journey on Medium</h4>
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PrathyushNair)](https://github.com/LordDashMe/github-contribution-stats/)
 <ul>
   <li><a href="https://medium.com/@prathyu360/cloning-the-website-of-nordstrom-rack-af68fce46989">Norsdtromrack Clone</a></li>
   <li><a href="https://medium.com/@victor20sara20/project-on-clone-of-modesens-a110c4d5394c">Modesens Clone</a></li>
