@@ -21,8 +21,9 @@
 <h4>Checkout my <a href="https://prathyushnair.netlify.app/">Portfolio</a></h4>
 
 
-<b>My projects.</b>
+<b>My project blogs.</b>
 <ul>
+  <li><a href="https://medium.com/@prathyu360/cloning-trackingtime-co-website-2976c639e9aa">TrackingTime Clone</a></li>
   <li><a href="https://medium.com/@prathyu360/cloning-the-website-of-nordstrom-rack-af68fce46989">Norsdtromrack Clone</a></li>
   <li><a href="https://medium.com/@victor20sara20/project-on-clone-of-modesens-a110c4d5394c">Modesens Clone</a></li>
   <li><a href="https://medium.com/@info.coldfired/project-toy-marche-clone-9a66fee38079">Toymarche Clone</a></li>
