@@ -1,8 +1,14 @@
 ## Hi there 👋 I am Prathyush Nair, an aspiring full stack web developer.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="100"/>
+<!--   <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="100"/> -->
+
 </div>
+
+  
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" height="300px" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+  
+
 
 <p> I am a avid logic seeker with keen interest on building websites in the most simplified way.MERN stack is something I love very much and I appreciate its power💪🏿 I look forward to learn the best technologies to help me accomplish my goal of writing code that is not only understood by computers but is easier for us human beings to understand.</p>
 
