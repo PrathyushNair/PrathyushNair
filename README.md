@@ -5,8 +5,10 @@
 
 </div>
 
+  <p align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" class="giphy-embed" allowFullScreen></img>
+</p>
   
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" height="300px" frameBorder="0" class="giphy-embed" allowFullScreen></img>
   
 
 
