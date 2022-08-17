@@ -25,7 +25,7 @@
 
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 
-<h4>Connect with me on <a href="www.linkedin.com/in/prathyush-nair">LinkedIn</a></h4>
+<h4>Connect with me on <a href="www.linkedin.com/in/prathyush-nair"> <img width="20" margin-Top="5px" src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"></a></h4>
 <h4>Checkout my <a target="blank"href="https://prathyushnair.netlify.app/">Portfolio</a></h4>
 
 
