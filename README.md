@@ -31,16 +31,10 @@
   
 <h4>Checkout my <a target="blank"href="https://prathyushnair.netlify.app/">Portfolio</a></h4>
   <h4>Read my blogs</h4>
-  <span><a target="blank" href="https://medium.com/@prathyu360"><img src='https://i.postimg.cc/NfFwmbpT/medium.png' height="20px" alt='medium'/></a></span>
+  <span><a target="blank" href="https://medium.com/@prathyu360"><img src='https://i.postimg.cc/NfFwmbpT/medium.png' alt='medium'/></a></span>
+
+<br></br>
   
-<ul>
-  <li><a href="https://medium.com/@prathyu360/cloning-trackingtime-co-website-2976c639e9aa">TrackingTime Clone</a></li>
-  <li><a href="https://medium.com/@prathyu360/cloning-the-website-of-nordstrom-rack-af68fce46989">Norsdtromrack Clone</a></li>
-  <li><a href="https://medium.com/@victor20sara20/project-on-clone-of-modesens-a110c4d5394c">Modesens Clone</a></li>
-  <li><a href="https://medium.com/@info.coldfired/project-toy-marche-clone-9a66fee38079">Toymarche Clone</a></li>
-</ul>
-
-
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PrathyushNair)](https://github.com/LordDashMe/github-contribution-stats/)
 
 
