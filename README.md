@@ -30,9 +30,9 @@
 <div><a target="blank" href="https://www.linkedin.com/in/prathyush-nair"><img src="https://i.stack.imgur.com/gVE0j.png" width="30px" height="30px alt="linkedin"></a></div>
   
 <h4>Checkout my <a target="blank"href="https://prathyushnair.netlify.app/">Portfolio</a></h4>
-
-
-<b>My project blogs.</b>
+  <h4>Read my blogs</h4>
+  <span><a target="blank" href="https://medium.com/@prathyu360"><img src='https://i.postimg.cc/NfFwmbpT/medium.png' height="20px" alt='medium'/></a></span>
+  
 <ul>
   <li><a href="https://medium.com/@prathyu360/cloning-trackingtime-co-website-2976c639e9aa">TrackingTime Clone</a></li>
   <li><a href="https://medium.com/@prathyu360/cloning-the-website-of-nordstrom-rack-af68fce46989">Norsdtromrack Clone</a></li>
