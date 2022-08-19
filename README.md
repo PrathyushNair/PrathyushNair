@@ -9,7 +9,7 @@
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" class="giphy-embed" allowFullScreen></img>
 </p>
   
-  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=PrathyushNair&label=Profile%20views&color=ce9927&style=flat" alt="PrathyushNair" /> </p>
 
 
 <p> I am a avid logic seeker with keen interest on building websites in the most simplified way.MERN stack is something I love very much and I appreciate its power💪🏿 I look forward to learn the best technologies to help me accomplish my goal of writing code that is not only understood by computers but is easier for us human beings to understand.</p>
